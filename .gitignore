@@ -1,0 +1,15 @@
+# Bỏ thư mục node_modules
+node_modules/
+
+# Bỏ file lock nếu không muốn commit (tùy chọn)
+package-lock.json
+yarn.lock
+
+# Bỏ log files
+npm-debug.log
+yarn-error.log
+
+# Bỏ thư mục build nếu có
+dist/
+build/
+package.json
